@@ -1,0 +1,12 @@
+Word: firewall — noun
+
+A security system that monitors and controls incoming and outgoing network traffic.
+
+Synonyms: barrier, filter, gateway
+Antonyms: vulnerability, breach
+
+POS: noun
+Register: technical
+Domain: security
+Risk_level: 0.40
+Tags: network, protection

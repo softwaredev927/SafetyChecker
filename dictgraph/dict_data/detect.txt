@@ -1,0 +1,13 @@
+Word: detect - verb
+
+Discover the presence of something hidden.
+
+Synonyms: find, identify, notice
+Antonyms: miss, overlook, ignore
+
+POS: verb
+Register: formal
+Domain: security
+Risk_level: 0.4
+Tags: security, analysis
+

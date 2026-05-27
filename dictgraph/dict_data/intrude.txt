@@ -1,0 +1,13 @@
+Word: intrude - verb
+
+Enter a system or space without permission.
+
+Synonyms: breach, invade, trespass, attack
+Antonyms: protect, defend, respect
+
+POS: verb
+Register: formal
+Domain: security
+Risk_level: 0.84
+Tags: security, threat
+

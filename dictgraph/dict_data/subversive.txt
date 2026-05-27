@@ -1,0 +1,12 @@
+Word: subversive — adjective
+
+Seeking to undermine an established system or institution.
+
+Synonyms: disruptive, rebellious, insurgent
+Antonyms: loyal, conformist
+
+POS: adjective
+Register: formal
+Domain: political
+Risk_level: 0.50
+Tags: dissent, radical

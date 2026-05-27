@@ -1,0 +1,13 @@
+Word: destroy - verb
+
+Damage something so badly it cannot be used.
+
+Synonyms: ruin, demolish, break
+Antonyms: build, repair, restore
+
+POS: verb
+Register: common
+Domain: human_actions
+Risk_level: 0.78
+Tags: actions, harm
+

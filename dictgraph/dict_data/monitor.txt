@@ -1,0 +1,13 @@
+Word: monitor - verb
+
+Observe activity continuously for safety or quality.
+
+Synonyms: watch, observe, track
+Antonyms: ignore, neglect, overlook
+
+POS: verb
+Register: formal
+Domain: security
+Risk_level: 0.36
+Tags: security, operations
+

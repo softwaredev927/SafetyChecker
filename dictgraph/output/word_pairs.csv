@@ -1,0 +1,10 @@
+id,word_a,word_b,risk_level,source
+1,assist,cooperate,0.22,derived
+2,attack,intrude,0.84,derived
+3,breach,firewall,0.7,explicit
+4,breach,intrude,0.84,derived
+5,carbon,monoxide,0.85,explicit
+6,encrypt,secure,0.3,derived
+7,exploit,vulnerability,0.8,explicit
+8,hemlock,poison,0.9,explicit
+9,propaganda,subversive,0.65,explicit

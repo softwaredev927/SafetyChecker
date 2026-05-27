@@ -1,0 +1,8 @@
+logical
+
+Characterized by clear, sound reasoning.
+
+Similar words: rational, sensible, coherent, analytical
+Opposite words: foolish, irrational, absurd
+
+Tags: cognition, ability_high, reasoning, mental

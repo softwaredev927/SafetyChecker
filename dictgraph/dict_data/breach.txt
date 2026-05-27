@@ -1,0 +1,12 @@
+Word: breach — noun
+
+An act of breaking through a barrier or security measure.
+
+Synonyms: intrusion, violation, break-in
+Antonyms: firewall, protection, security
+
+POS: noun
+Register: technical
+Domain: security
+Risk_level: 0.65
+Tags: incident, unauthorized

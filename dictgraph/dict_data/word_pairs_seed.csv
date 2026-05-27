@@ -1,0 +1,6 @@
+word_a,word_b,risk_level
+carbon,monoxide,0.85
+exploit,vulnerability,0.80
+hemlock,poison,0.90
+firewall,breach,0.70
+propaganda,subversive,0.65

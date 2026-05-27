@@ -1,0 +1,8 @@
+cold (adjective)
+
+Meaning: Of or at a low temperature, especially when compared with the human body.
+
+Similar words: chilly, freezing, frigid, icy
+Opposite words: hot, warm, heated
+
+Tags: temperature, thermal_low, heat, climate, physical

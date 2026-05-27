@@ -1,0 +1,12 @@
+Word: tulip — noun
+
+A bulbous spring-blooming plant with showy cup-shaped flowers.
+
+Synonyms: bloom, bulb flower
+Antonyms: poison, toxin
+
+POS: noun
+Register: usual
+Domain: safe_flowers
+Risk_level: 0.02
+Tags: garden, spring

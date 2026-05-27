@@ -1,0 +1,13 @@
+Word: decrypt - verb
+
+Convert coded information back into readable form.
+
+Synonyms: decode, decipher, reveal
+Antonyms: encrypt, encode, conceal
+
+POS: verb
+Register: technical
+Domain: security
+Risk_level: 0.58
+Tags: security, data
+

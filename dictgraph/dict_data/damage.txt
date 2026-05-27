@@ -1,0 +1,13 @@
+Word: damage - verb
+
+Cause physical or functional harm.
+
+Synonyms: harm, impair, break
+Antonyms: repair, fix, protect
+
+POS: verb
+Register: common
+Domain: human_actions
+Risk_level: 0.69
+Tags: actions, harm
+

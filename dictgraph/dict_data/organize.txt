@@ -1,0 +1,13 @@
+Word: organize - verb
+
+Arrange items or plans in a structured way.
+
+Synonyms: arrange, order, sort
+Antonyms: chaotic, scramble, disorder
+
+POS: verb
+Register: common
+Domain: human_actions
+Risk_level: 0.19
+Tags: actions, planning
+

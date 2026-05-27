@@ -1,0 +1,12 @@
+Word: backdoor — noun
+
+A hidden method of bypassing normal authentication in a computer system.
+
+Synonyms: trapdoor, secret entry
+Antonyms: authentication, encryption
+
+POS: noun
+Register: technical
+Domain: hacking
+Risk_level: 0.85
+Tags: access, covert

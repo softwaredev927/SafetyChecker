@@ -1,0 +1,13 @@
+Word: resilient - adjective
+
+Able to recover quickly from difficulties or attacks.
+
+Synonyms: strong, robust, durable
+Antonyms: fragile, vulnerable, weak
+
+POS: adjective
+Register: formal
+Domain: security
+Risk_level: 0.28
+Tags: security, quality
+

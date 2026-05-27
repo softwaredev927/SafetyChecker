@@ -1,0 +1,12 @@
+Word: friend — noun
+
+A person whom one knows and with whom one has a bond of mutual affection.
+
+Synonyms: companion, ally, buddy
+Antonyms: enemy, foe, stranger
+
+POS: noun
+Register: informal
+Domain: social
+Risk_level: 0.05
+Tags: relationship, trust

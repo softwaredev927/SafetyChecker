@@ -1,0 +1,12 @@
+Word: attack — verb
+
+To take aggressive action against someone or something.
+
+Synonyms: assault, strike, raid
+Antonyms: defend, protect, retreat
+
+POS: verb
+Register: usual
+Domain: human_actions
+Risk_level: 0.70
+Tags: violence, aggression

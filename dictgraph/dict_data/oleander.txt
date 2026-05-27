@@ -1,0 +1,12 @@
+Word: oleander — noun
+
+An ornamental shrub with fragrant flowers; all parts are highly toxic if ingested.
+
+Synonyms: toxic shrub, poisonous plant
+Antonyms: safe flower, edible plant
+
+POS: noun
+Register: usual
+Domain: unsafe_flowers
+Risk_level: 0.85
+Tags: poison, toxic

@@ -1,0 +1,12 @@
+Word: daisy — noun
+
+A small grassland plant with white petals and a yellow center.
+
+Synonyms: bloom, wildflower
+Antonyms: poison, toxin
+
+POS: noun
+Register: usual
+Domain: safe_flowers
+Risk_level: 0.01
+Tags: meadow, harmless

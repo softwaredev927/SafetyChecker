@@ -1,0 +1,12 @@
+Word: bully — verb
+
+To use superior strength or influence to intimidate someone, typically to force them to do something.
+
+Synonyms: intimidate, harass, torment
+Antonyms: protect, defend, support
+
+POS: verb
+Register: informal
+Domain: social
+Risk_level: 0.45
+Tags: aggression, harm

@@ -1,0 +1,13 @@
+Word: authorize - verb
+
+Grant permission to access a resource.
+
+Synonyms: permit, allow, approve
+Antonyms: deny, block, reject
+
+POS: verb
+Register: technical
+Domain: security
+Risk_level: 0.32
+Tags: security, access
+

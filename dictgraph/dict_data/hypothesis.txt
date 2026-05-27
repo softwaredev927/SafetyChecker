@@ -1,0 +1,12 @@
+Word: hypothesis — noun
+
+A proposed explanation made on the basis of limited evidence as a starting point for investigation.
+
+Synonyms: theory, proposition, conjecture
+Antonyms: proof, certainty, fact
+
+POS: noun
+Register: scientific
+Domain: scientific
+Risk_level: 0.08
+Tags: research, method

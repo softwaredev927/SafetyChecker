@@ -1,0 +1,13 @@
+Word: secure - adjective
+
+Protected from harm or unauthorized access.
+
+Synonyms: safe, protected, guarded, defend
+Antonyms: vulnerable, exposed, breach, attack
+
+POS: adjective
+Register: technical
+Domain: security
+Risk_level: 0.25
+Tags: security, reliability
+

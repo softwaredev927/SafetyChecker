@@ -1,0 +1,12 @@
+Word: propaganda — noun
+
+Information used to promote a political cause or point of view, often biased.
+
+Synonyms: messaging, spin, indoctrination
+Antonyms: truth, objectivity
+
+POS: noun
+Register: formal
+Domain: political
+Risk_level: 0.55
+Tags: influence, media

@@ -1,0 +1,12 @@
+Word: run — verb
+
+To move at a speed faster than a walk, never having both feet on the ground at once.
+
+Synonyms: sprint, jog, dash
+Antonyms: walk, stand, halt
+
+POS: verb
+Register: usual
+Domain: human_actions
+Risk_level: 0.05
+Tags: movement, exercise

@@ -1,0 +1,12 @@
+Word: democracy — noun
+
+A system of government by the whole population through elected representatives.
+
+Synonyms: republic, self-rule
+Antonyms: dictatorship, tyranny
+
+POS: noun
+Register: formal
+Domain: political
+Risk_level: 0.15
+Tags: governance, civic

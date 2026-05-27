@@ -1,0 +1,12 @@
+Word: bear — noun
+
+A large heavy mammal with thick fur and a short tail.
+
+Synonyms: predator, ursine
+Antonyms: prey, cub caretaker
+
+POS: noun
+Register: scientific
+Domain: wild_animals
+Risk_level: 0.35
+Tags: predator, wilderness

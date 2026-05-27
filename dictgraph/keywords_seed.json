@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "keyword": "(?i)^word\\s*:",
+    "purpose_of_keyword": "word_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 2,
+    "keyword": "(?i)^word\\s*[\u2014\\-]\\s*",
+    "purpose_of_keyword": "word_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 3,
+    "keyword": "(?i)^[a-z][a-z\\-']+\\s*[\u2014\\-]\\s*(?:adjective|noun|verb|adverb)\\b",
+    "purpose_of_keyword": "word_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 4,
+    "keyword": "(?i)^[a-z][a-z\\-']+\\s*\\((?:adjective|noun|verb|adverb)\\)",
+    "purpose_of_keyword": "word_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 5,
+    "keyword": "(?i)^[a-z][a-z\\-']+\\s*$",
+    "purpose_of_keyword": "word_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 6,
+    "keyword": "(?i)^meaning\\s*:",
+    "purpose_of_keyword": "meaning_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 7,
+    "keyword": "(?i)^definition\\s*:",
+    "purpose_of_keyword": "meaning_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 8,
+    "keyword": "(?i)^synonyms?\\s*:",
+    "purpose_of_keyword": "synonym_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 9,
+    "keyword": "(?i)^similar\\s+(?:words?|terms?)\\s*:",
+    "purpose_of_keyword": "synonym_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 10,
+    "keyword": "(?i)^words?\\s+with\\s+similar\\s+meaning\\s*:",
+    "purpose_of_keyword": "synonym_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 11,
+    "keyword": "(?i)^antonyms?\\s*:",
+    "purpose_of_keyword": "antonym_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 12,
+    "keyword": "(?i)^opposite\\s+(?:words?|terms?)\\s*:",
+    "purpose_of_keyword": "antonym_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 13,
+    "keyword": "(?i)^opposites?\\s*:",
+    "purpose_of_keyword": "antonym_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 14,
+    "keyword": "(?i)^primary(?:_category)?\\s*:",
+    "purpose_of_keyword": "primary_category_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 15,
+    "keyword": "(?i)^primary\\s*:",
+    "purpose_of_keyword": "primary_category_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 16,
+    "keyword": "(?i)^secondary(?:_category)?\\s*:",
+    "purpose_of_keyword": "secondary_category_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 17,
+    "keyword": "(?i)^secondary\\s*:",
+    "purpose_of_keyword": "secondary_category_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 18,
+    "keyword": "(?i)^(?:category\\s+)?tags?\\s*:",
+    "purpose_of_keyword": "category_tags_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 19,
+    "keyword": "(?i)^category\\s+tags?\\s*:",
+    "purpose_of_keyword": "category_tags_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 20,
+    "keyword": "(?i)^domain\\s*:",
+    "purpose_of_keyword": "domain_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 21,
+    "keyword": "(?i)^category\\s*:",
+    "purpose_of_keyword": "domain_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 22,
+    "keyword": "(?i)^pos\\s*:",
+    "purpose_of_keyword": "pos_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 23,
+    "keyword": "(?i)^register\\s*:",
+    "purpose_of_keyword": "register_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 24,
+    "keyword": "(?i)^risk_level\\s*:",
+    "purpose_of_keyword": "risk_level_section_starter",
+    "is_regex": true,
+    "ontology_relation": ""
+  },
+  {
+    "id": 1000,
+    "keyword": "(?i)\\b(?:a|an)\\s+type\\s+of\\s+([a-z][a-z0-9_\\-]{0,32})\\b",
+    "purpose_of_keyword": "infer_category_relation",
+    "is_regex": true,
+    "ontology_relation": "is_a_type_of"
+  },
+  {
+    "id": 1001,
+    "keyword": "(?i)\\b(?:a|an)\\s+kind\\s+of\\s+([a-z][a-z0-9_\\-]{0,32})\\b",
+    "purpose_of_keyword": "infer_category_relation",
+    "is_regex": true,
+    "ontology_relation": "is_a_type_of"
+  },
+  {
+    "id": 1002,
+    "keyword": "(?i)\\bform\\s+of\\s+([a-z][a-z0-9_\\-]{0,32})\\b",
+    "purpose_of_keyword": "infer_category_relation",
+    "is_regex": true,
+    "ontology_relation": "is_a"
+  },
+  {
+    "id": 1003,
+    "keyword": "(?i)\\bpart\\s+of\\s+([a-z][a-z0-9_\\-]{0,32})\\b",
+    "purpose_of_keyword": "infer_category_relation",
+    "is_regex": true,
+    "ontology_relation": "part_of"
+  },
+  {
+    "id": 1004,
+    "keyword": "(?i)\\bgrows?\\s+on\\s+(?:a|an|the\\s+)?([a-z][a-z0-9_\\-]{0,32})\\b",
+    "purpose_of_keyword": "infer_category_relation",
+    "is_regex": true,
+    "ontology_relation": "grows_on"
+  },
+  {
+    "id": 1005,
+    "keyword": "(?i)\\bfound\\s+in\\s+([a-z][a-z0-9_\\-]{0,32})\\b",
+    "purpose_of_keyword": "infer_category_relation",
+    "is_regex": true,
+    "ontology_relation": "found_in"
+  },
+  {
+    "id": 1006,
+    "keyword": "(?i)\\brelated\\s+to\\s+([a-z][a-z0-9_\\-]{0,32})\\b",
+    "purpose_of_keyword": "infer_category_relation",
+    "is_regex": true,
+    "ontology_relation": "related_to"
+  }
+]

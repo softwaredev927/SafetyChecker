@@ -1,0 +1,12 @@
+Word: foxglove — noun
+
+A tall flowering plant containing cardiac glycosides that are toxic if consumed.
+
+Synonyms: digitalis, poisonous flower
+Antonyms: safe flower, harmless plant
+
+POS: noun
+Register: usual
+Domain: unsafe_flowers
+Risk_level: 0.75
+Tags: poison, toxic

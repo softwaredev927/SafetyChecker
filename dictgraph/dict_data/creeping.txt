@@ -1,0 +1,8 @@
+creeping
+
+Moving slowly and carefully, or developing gradually.
+
+Synonyms: slow, sluggish, gradual, unhurried
+Antonyms: fast, quick, brisk
+
+Tags: speed, rate_low, motion, temporal

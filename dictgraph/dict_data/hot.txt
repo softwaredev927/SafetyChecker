@@ -1,0 +1,9 @@
+hot
+
+Having a high degree of heat or a high temperature.
+
+Synonyms: warm, scalding, burning, heated
+Antonyms: cold, chilly, freezing
+
+Domain: temperature | thermal_high
+Tags: heat, climate, physical

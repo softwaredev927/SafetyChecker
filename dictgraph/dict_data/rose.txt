@@ -1,0 +1,12 @@
+Word: rose — noun
+
+A fragrant flower with layered petals, widely cultivated for beauty and scent.
+
+Synonyms: bloom, blossom
+Antonyms: weed, thornbush
+
+POS: noun
+Register: usual
+Domain: safe_flowers
+Risk_level: 0.02
+Tags: garden, ornamental

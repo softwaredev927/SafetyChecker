@@ -1,0 +1,12 @@
+Word: angry — noun
+
+Feeling or showing strong displeasure or hostility.
+
+Synonyms: furious, irate, enraged, cross
+Antonyms: calm, peaceful, serene
+
+POS: 
+Register: 
+Domain: 
+Risk_level: 0.46
+Tags: emotion, negative, affect, mood

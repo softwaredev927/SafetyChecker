@@ -1,0 +1,12 @@
+brisk — adjective
+
+Active, quick, and energetic.
+
+Definition: Moving or acting with speed and vigor.
+
+Similar terms: fast, quick, rapid, lively
+Opposite terms: slow, sluggish, leisurely
+
+Primary: speed
+Secondary: rate_high
+Tags: motion, velocity, temporal

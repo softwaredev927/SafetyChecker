@@ -1,0 +1,13 @@
+Word: learn - verb
+
+Gain knowledge or skill through study or experience.
+
+Synonyms: study, absorb, understand
+Antonyms: forget, ignore, neglect
+
+POS: verb
+Register: common
+Domain: scientific
+Risk_level: 0.17
+Tags: cognition, growth
+

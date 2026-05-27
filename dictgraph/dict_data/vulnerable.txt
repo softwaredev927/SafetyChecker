@@ -1,0 +1,13 @@
+Word: vulnerable - adjective
+
+Open to attack or easy to harm.
+
+Synonyms: exposed, weak, fragile, breachable
+Antonyms: secure, protected, resilient, firewall
+
+POS: adjective
+Register: technical
+Domain: security
+Risk_level: 0.76
+Tags: security, weakness
+

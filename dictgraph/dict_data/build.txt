@@ -1,0 +1,13 @@
+Word: build - verb
+
+Create or assemble something useful.
+
+Synonyms: create, construct, make
+Antonyms: destroy, break, damage
+
+POS: verb
+Register: common
+Domain: human_actions
+Risk_level: 0.24
+Tags: actions, productivity
+

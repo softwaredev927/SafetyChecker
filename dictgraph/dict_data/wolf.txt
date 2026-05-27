@@ -1,0 +1,12 @@
+Word: wolf — noun
+
+A wild carnivorous mammal that hunts in packs.
+
+Synonyms: predator, canid
+Antonyms: prey, domestic dog
+
+POS: noun
+Register: scientific
+Domain: wild_animals
+Risk_level: 0.30
+Tags: predator, wilderness

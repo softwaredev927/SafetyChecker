@@ -1,0 +1,13 @@
+Word: authenticate - verb
+
+Verify the identity of a user or system.
+
+Synonyms: verify, validate, confirm
+Antonyms: spoof, fake, impersonate
+
+POS: verb
+Register: technical
+Domain: security
+Risk_level: 0.34
+Tags: security, identity
+

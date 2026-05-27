@@ -1,0 +1,13 @@
+Word: truthful - adjective
+
+Consistently telling facts without deception.
+
+Synonyms: honest, sincere, frank
+Antonyms: deceptive, false, dishonest
+
+POS: adjective
+Register: formal
+Domain: social
+Risk_level: 0.14
+Tags: social, trust
+

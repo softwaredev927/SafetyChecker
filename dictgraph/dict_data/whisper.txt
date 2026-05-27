@@ -1,0 +1,12 @@
+Word: whisper — verb
+
+To speak very softly using breath without vocal cords.
+
+Synonyms: murmur, mutter, hiss
+Antonyms: shout, yell, proclaim
+
+POS: verb
+Register: informal
+Domain: human_actions
+Risk_level: 0.15
+Tags: communication, secrecy

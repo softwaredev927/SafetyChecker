@@ -1,0 +1,13 @@
+Word: encrypt - verb
+
+Convert information into coded form to protect it.
+
+Synonyms: encode, secure, cipher
+Antonyms: decrypt, expose, reveal
+
+POS: verb
+Register: technical
+Domain: security
+Risk_level: 0.3
+Tags: security, data
+

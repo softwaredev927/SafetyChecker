@@ -1,0 +1,12 @@
+Word: protect — verb
+
+To keep safe from harm or injury.
+
+Synonyms: defend, guard, shield
+Antonyms: attack, harm, expose
+
+POS: verb
+Register: usual
+Domain: human_actions
+Risk_level: 0.10
+Tags: safety, defense

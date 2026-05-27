@@ -1,0 +1,8 @@
+Word: slow
+
+Moving or operating at a low speed.
+
+Synonyms: sluggish, leisurely, gradual, unhurried
+Antonyms: fast, quick, rapid
+
+Tags: speed, rate_low, motion, velocity, temporal

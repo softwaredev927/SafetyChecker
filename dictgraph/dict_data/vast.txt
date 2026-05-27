@@ -1,0 +1,8 @@
+vast
+
+Of very great extent, size, or quantity.
+
+Synonyms: big, huge, enormous, immense
+Antonyms: small, tiny, minute
+
+Tags: size, magnitude_high, dimension, scale, physical

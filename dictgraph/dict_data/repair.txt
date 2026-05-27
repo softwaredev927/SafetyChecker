@@ -1,0 +1,13 @@
+Word: repair - verb
+
+Fix something that is broken.
+
+Synonyms: fix, mend, restore
+Antonyms: damage, break, ruin
+
+POS: verb
+Register: common
+Domain: human_actions
+Risk_level: 0.22
+Tags: actions, maintenance
+

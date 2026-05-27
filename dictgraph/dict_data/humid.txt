@@ -1,0 +1,8 @@
+humid
+
+Marked by a high amount of water vapor in the air.
+
+Synonyms: muggy, damp, moist, sticky
+Antonyms: arid, dry, parched
+
+Tags: temperature, thermal_high, climate, heat

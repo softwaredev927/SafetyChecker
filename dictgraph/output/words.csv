@@ -1,0 +1,91 @@
+id,word,meaning,primary_category,secondary_category,pos,register,domain,risk_level,category_tags
+1,accelerating,Gaining velocity over time.,,,,,,,speed;rate_high;velocity;motion;temporal
+2,angry,Feeling or showing strong displeasure or hostility.,,,noun,,,0.46,emotion;negative;affect;mood
+3,arid,Having little or no rain; extremely dry.,temperature,thermal_low,,,,,climate;heat
+4,assist,Help someone complete a task.,,,verb,common,social,0.2,social;support
+5,attack,To take aggressive action against someone or something.,,,verb,usual,human_actions,0.7,violence;aggression
+6,authenticate,Verify the identity of a user or system.,,,verb,technical,security,0.34,security;identity
+7,authorize,Grant permission to access a resource.,,,verb,technical,security,0.32,security;access
+8,backdoor,A hidden method of bypassing normal authentication in a computer system.,,,noun,technical,hacking,0.85,access;covert
+9,bear,A large heavy mammal with thick fur and a short tail.,,,noun,scientific,wild_animals,0.35,predator;wilderness
+10,betray,Break trust by acting against someone.,,,verb,common,social,0.72,social;trust
+11,big,"Of considerable size, extent, or intensity.",size,magnitude_high,adjective,,,,dimension;scale;physical
+12,boiling,Heated to the point of bubbling vigorously.,temperature,thermal_high,adjective,,,,heat;physical
+13,breach,An act of breaking through a barrier or security measure.,,,noun,technical,security,0.65,incident;unauthorized
+14,brief,Lasting only a short time; concise.,speed,rate_high,,,,,temporal;motion
+15,brisk,Moving or acting with speed and vigor.,speed,rate_high,adjective,,,,motion;velocity;temporal
+16,build,Create or assemble something useful.,,,verb,common,human_actions,0.24,actions;productivity
+17,bully,"To use superior strength or influence to intimidate someone, typically to force them to do something.",,,verb,informal,social,0.45,aggression;harm
+18,calm,Free from agitation or intense emotion.,,,adjective,common,social,0.16,social;emotion
+19,chaotic,Completely disordered and hard to control.,,,adjective,formal,human_actions,0.57,actions;disorder
+20,cold,"Of or at a low temperature, especially when compared with the human body.",,,adjective,,,,temperature;thermal_low;heat;climate;physical
+21,confused,Lacking clear understanding or mental order.,cognition,ability_low,adjective,,,,mental;reasoning;mind
+22,cooperate,Work together toward a shared goal.,,,verb,common,social,0.22,social;teamwork
+23,creeping,"Moving slowly and carefully, or developing gradually.",,,,,,,speed;rate_low;motion;temporal
+24,daisy,A small grassland plant with white petals and a yellow center.,,,noun,usual,safe_flowers,0.01,meadow;harmless
+25,damage,Cause physical or functional harm.,,,verb,common,human_actions,0.69,actions;harm
+26,deceptive,Designed to mislead or create false beliefs.,,,adjective,formal,social,0.7,social;trust
+27,decrypt,Convert coded information back into readable form.,,,verb,technical,security,0.58,security;data
+28,democracy,A system of government by the whole population through elected representatives.,,,noun,formal,political,0.15,governance;civic
+29,dense,Closely compacted in substance; thick or crowded.,,,,,,,size;magnitude_high;physical;scale
+30,destroy,Damage something so badly it cannot be used.,,,verb,common,human_actions,0.78,actions;harm
+31,detect,Discover the presence of something hidden.,,,verb,formal,security,0.4,security;analysis
+32,encrypt,Convert information into coded form to protect it.,,,verb,technical,security,0.3,security;data
+33,exploit,To take unfair advantage of a weakness in a system or person.,,,verb,technical,hacking,0.85,vulnerability;attack
+34,fast,Moving or capable of moving at high speed.,speed,rate_high,adjective,,,,motion;velocity;temporal
+35,firewall,A security system that monitors and controls incoming and outgoing network traffic.,,,noun,technical,security,0.4,network;protection
+36,foolish,Lacking good sense or judgment; unwise.,cognition,ability_low,,,,,mind;reasoning;mental
+37,forget,Fail to remember something known before.,,,verb,common,scientific,0.44,cognition;memory
+38,foxglove,A tall flowering plant containing cardiac glycosides that are toxic if consumed.,,,noun,usual,unsafe_flowers,0.75,poison;toxic
+39,friend,A person whom one knows and with whom one has a bond of mutual affection.,,,noun,informal,social,0.05,relationship;trust
+40,gloomy,Feeling pessimistic or despondent.,emotion,negative,adjective,,,,feeling;mood
+41,gossip,"Casual or unconstrained conversation about other people, often involving rumors.",,,noun,informal,social,0.25,communication;reputation
+42,happy,"Feeling or showing pleasure, contentment, or joy.",,,,,,,emotion;positive;affect;feeling;mood
+43,hemlock,A highly poisonous plant; ingestion can be fatal to humans and animals.,,,noun,usual,unsafe_flowers,0.9,poison;lethal
+44,hinder,Create delays or difficulties for progress.,,,verb,formal,social,0.61,social;conflict
+45,hot,Having a high degree of heat or a high temperature.,temperature,thermal_high,,,,,heat;climate;physical
+46,humid,Marked by a high amount of water vapor in the air.,,,,,,,temperature;thermal_high;climate;heat
+47,hypothesis,A proposed explanation made on the basis of limited evidence as a starting point for investigation.,,,noun,scientific,scientific,0.08,research;method
+48,ignorant,Unaware or uninformed about something.,,,,,,,cognition;ability_low;mind;mental
+49,insult,Speak or act in a way that offends someone.,,,verb,common,social,0.64,social;harm
+50,intelligent,"Having or showing intelligence, especially of a high level.",,,,,,,cognition;ability_high;mind;reasoning;mental
+51,intrude,Enter a system or space without permission.,,,verb,formal,security,0.84,security;threat
+52,joyful,Full of happiness and joy; delighted.,emotion,positive,,,,,affect;feeling;mood
+53,learn,Gain knowledge or skill through study or experience.,,,verb,common,scientific,0.17,cognition;growth
+54,logical,"Characterized by clear, sound reasoning.",,,,,,,cognition;ability_high;reasoning;mental
+55,lukewarm,Moderately warm; only slightly heated.,,,,,,,temperature;thermal_low;heat;physical
+56,malware,"Software designed to disrupt, damage, or gain unauthorized access to a system.",,,noun,technical,hacking,0.8,cyber;infection
+57,minute,Of minimal scale or scope.,size,magnitude_low,adjective,,,,dimension;scale
+58,molecule,The smallest particle of a substance that retains the chemical properties of that substance.,,,noun,scientific,scientific,0.05,chemistry;structure
+59,monitor,Observe activity continuously for safety or quality.,,,verb,formal,security,0.36,security;operations
+60,narrow,Of small width in relation to length; limited in extent.,size,magnitude_low,,,,,dimension;physical
+61,negative,Not or opposite of,,,,,,,affect;mood
+62,oleander,An ornamental shrub with fragrant flowers; all parts are highly toxic if ingested.,,,noun,usual,unsafe_flowers,0.85,poison;toxic
+63,organize,Arrange items or plans in a structured way.,,,verb,common,human_actions,0.19,actions;planning
+64,panic,React with sudden overwhelming fear.,,,verb,common,social,0.66,social;emotion
+65,private,Not open to the public or general access.,,,adjective,common,security,0.33,security;privacy
+66,propaganda,"Information used to promote a political cause or point of view, often biased.",,,noun,formal,political,0.55,influence;media
+67,protect,To keep safe from harm or injury.,,,verb,usual,human_actions,0.1,safety;defense
+68,public,Openly available to everyone.,,,adjective,common,social,0.29,social;access
+69,rabbit,A small herbivorous mammal with long ears and a short fluffy tail.,,,noun,scientific,wild_animals,0.05,prey;harmless
+70,repair,Fix something that is broken.,,,verb,common,human_actions,0.22,actions;maintenance
+71,resilient,Able to recover quickly from difficulties or attacks.,,,adjective,formal,security,0.28,security;quality
+72,respect,"Show regard for a person, rule, or boundary.",,,verb,common,social,0.18,social;behavior
+73,rose,"A fragrant flower with layered petals, widely cultivated for beauty and scent.",,,noun,usual,safe_flowers,0.02,garden;ornamental
+74,run,"To move at a speed faster than a walk, never having both feet on the ground at once.",,,verb,usual,human_actions,0.05,movement;exercise
+75,sad,"Feeling sorrow, unhappiness, or grief.",emotion,negative,,,,,affect;feeling;mood
+76,secure,Protected from harm or unauthorized access.,,,adjective,technical,security,0.25,security;reliability
+77,slow,Moving or operating at a low speed.,,,,,,,speed;rate_low;motion;velocity;temporal
+78,small,Of a size that is less than normal or usual.,,,,,,,size;magnitude_low;dimension;scale;physical
+79,steal,To take something without permission or legal right.,,,verb,usual,human_actions,0.7,crime;theft
+80,subversive,Seeking to undermine an established system or institution.,,,adjective,formal,political,0.5,dissent;radical
+81,tender,"Showing gentleness, kindness, and affection.",emotion,positive,,,,,feeling;affect
+82,toxin,A poisonous substance produced within living cells or organisms.,,,noun,scientific,scientific,0.6,poison;hazard
+83,truthful,Consistently telling facts without deception.,,,adjective,formal,social,0.14,social;trust
+84,tulip,A bulbous spring-blooming plant with showy cup-shaped flowers.,,,noun,usual,safe_flowers,0.02,garden;spring
+85,tv,An electric machine human can see video and audio.,,,noun,usual,electric machine,0.02,machine;electric
+86,vast,"Of very great extent, size, or quantity.",,,,,,,size;magnitude_high;dimension;scale;physical
+87,vulnerable,Open to attack or easy to harm.,,,adjective,technical,security,0.76,security;weakness
+88,whisper,To speak very softly using breath without vocal cords.,,,verb,informal,human_actions,0.15,communication;secrecy
+89,wise,"Having experience, knowledge, and good judgment.",cognition,ability_high,,,,,mind;reasoning;mental
+90,wolf,A wild carnivorous mammal that hunts in packs.,,,noun,scientific,wild_animals,0.3,predator;wilderness

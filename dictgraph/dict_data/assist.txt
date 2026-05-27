@@ -1,0 +1,13 @@
+Word: assist - verb
+
+Help someone complete a task.
+
+Synonyms: help, support, aid
+Antonyms: hinder, block, obstruct
+
+POS: verb
+Register: common
+Domain: social
+Risk_level: 0.2
+Tags: social, support
+

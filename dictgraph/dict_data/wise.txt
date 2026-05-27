@@ -1,0 +1,9 @@
+wise
+
+Having experience, knowledge, and good judgment.
+
+Synonyms: intelligent, clever, smart, sage
+Antonyms: foolish, ignorant, silly
+
+Domain: cognition | ability_high
+Tags: mind, reasoning, mental

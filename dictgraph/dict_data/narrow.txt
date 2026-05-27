@@ -1,0 +1,9 @@
+narrow
+
+Of small width in relation to length; limited in extent.
+
+Synonyms: slim, thin, tight, constricted
+Antonyms: wide, broad, vast
+
+Domain: size | magnitude_low
+Tags: dimension, physical

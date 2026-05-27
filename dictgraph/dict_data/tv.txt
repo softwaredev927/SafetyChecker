@@ -1,0 +1,12 @@
+Word: Tv or television — noun
+
+An electric machine human can see video and audio.
+
+Synonyms: television
+Antonyms: 
+
+POS: noun
+Register: usual
+Domain: electric machine
+Risk_level: 0.02
+Tags: machine, electric

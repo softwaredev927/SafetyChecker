@@ -1,0 +1,13 @@
+Word: deceptive - adjective
+
+Designed to mislead or create false beliefs.
+
+Synonyms: misleading, false, dishonest
+Antonyms: truthful, honest, transparent
+
+POS: adjective
+Register: formal
+Domain: social
+Risk_level: 0.7
+Tags: social, trust
+

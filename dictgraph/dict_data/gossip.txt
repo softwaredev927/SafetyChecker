@@ -1,0 +1,12 @@
+Word: gossip — noun
+
+Casual or unconstrained conversation about other people, often involving rumors.
+
+Synonyms: rumor, hearsay, chatter
+Antonyms: fact, silence
+
+POS: noun
+Register: informal
+Domain: social
+Risk_level: 0.25
+Tags: communication, reputation

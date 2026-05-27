@@ -1,0 +1,13 @@
+Word: private - adjective
+
+Not open to the public or general access.
+
+Synonyms: confidential, secret, restricted
+Antonyms: public, open, shared
+
+POS: adjective
+Register: common
+Domain: security
+Risk_level: 0.33
+Tags: security, privacy
+

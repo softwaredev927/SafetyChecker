@@ -1,0 +1,11 @@
+boiling (adjective)
+
+At the temperature at which a liquid turns to vapor; extremely hot.
+
+Meaning: Heated to the point of bubbling vigorously.
+
+Synonyms: hot, scalding, heated, searing
+Antonyms: cold, freezing, chilly
+
+Domain: temperature | thermal_high
+Tags: heat, physical

@@ -1,0 +1,12 @@
+Word: hemlock — noun
+
+A highly poisonous plant; ingestion can be fatal to humans and animals.
+
+Synonyms: poison plant, toxic herb
+Antonyms: safe flower, edible herb
+
+POS: noun
+Register: usual
+Domain: unsafe_flowers
+Risk_level: 0.90
+Tags: poison, lethal

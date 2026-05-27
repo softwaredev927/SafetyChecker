@@ -1,0 +1,13 @@
+Word: small
+
+Of a size that is less than normal or usual.
+
+Synonyms:
+  tiny
+  little
+  miniature
+  compact
+
+Antonyms: big, large, huge
+
+Tags: size, magnitude_low, dimension, scale, physical

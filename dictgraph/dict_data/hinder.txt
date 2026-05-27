@@ -1,0 +1,13 @@
+Word: hinder - verb
+
+Create delays or difficulties for progress.
+
+Synonyms: obstruct, impede, block
+Antonyms: assist, support, accelerate
+
+POS: verb
+Register: formal
+Domain: social
+Risk_level: 0.61
+Tags: social, conflict
+

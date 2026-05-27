@@ -1,0 +1,10 @@
+Word: accelerating
+
+Increasing in speed or rate of motion.
+
+Meaning: Gaining velocity over time.
+
+Synonyms: quickening, speeding, hastening
+Antonyms: slowing, decelerating, creeping
+
+Tags: speed, rate_high, velocity, motion, temporal

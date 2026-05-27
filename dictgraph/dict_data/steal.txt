@@ -1,0 +1,12 @@
+Word: steal — verb
+
+To take something without permission or legal right.
+
+Synonyms: pilfer, rob, thieve
+Antonyms: return, donate, give
+
+POS: verb
+Register: usual
+Domain: human_actions
+Risk_level: 0.70
+Tags: crime, theft

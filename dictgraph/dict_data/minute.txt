@@ -1,0 +1,12 @@
+minute (adjective)
+
+Extremely small in size or amount.
+
+Definition: Of minimal scale or scope.
+
+Similar terms: small, tiny, little, compact
+Opposite terms: big, large, vast
+
+Primary: size
+Secondary: magnitude_low
+Tags: dimension, scale

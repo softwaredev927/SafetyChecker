@@ -1,0 +1,12 @@
+Word: molecule — noun
+
+The smallest particle of a substance that retains the chemical properties of that substance.
+
+Synonyms: particle, compound unit
+Antonyms: atom cluster, bulk matter
+
+POS: noun
+Register: scientific
+Domain: scientific
+Risk_level: 0.05
+Tags: chemistry, structure

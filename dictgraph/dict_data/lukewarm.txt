@@ -1,0 +1,8 @@
+lukewarm
+
+Moderately warm; only slightly heated.
+
+Synonyms: tepid, mild, warm
+Antonyms: hot, boiling, scalding
+
+Tags: temperature, thermal_low, heat, physical

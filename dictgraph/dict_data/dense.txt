@@ -1,0 +1,8 @@
+Word: dense
+
+Closely compacted in substance; thick or crowded.
+
+Synonyms: thick, compact, heavy, solid
+Antonyms: sparse, thin, airy
+
+Tags: size, magnitude_high, physical, scale

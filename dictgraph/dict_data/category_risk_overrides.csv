@@ -1,0 +1,9 @@
+category_name,default_risk_level
+hacking,0.85
+unsafe_flowers,0.75
+security,0.55
+human_actions,0.35
+safe_flowers,0.02
+wild_animals,0.20
+social,0.25
+political,0.40

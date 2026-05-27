@@ -1,0 +1,10 @@
+Word: ignorant
+
+Lacking knowledge, awareness, or education.
+
+Meaning: Unaware or uninformed about something.
+
+Synonyms: foolish, naive, uninformed, unlearned
+Antonyms: intelligent, wise, knowledgeable
+
+Tags: cognition, ability_low, mind, mental

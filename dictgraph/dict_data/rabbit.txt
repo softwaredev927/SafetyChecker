@@ -1,0 +1,12 @@
+Word: rabbit — noun
+
+A small herbivorous mammal with long ears and a short fluffy tail.
+
+Synonyms: bunny, hare
+Antonyms: predator, hunter
+
+POS: noun
+Register: scientific
+Domain: wild_animals
+Risk_level: 0.05
+Tags: prey, harmless

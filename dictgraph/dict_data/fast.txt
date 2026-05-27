@@ -1,0 +1,10 @@
+fast — adjective
+
+Definition: Moving or capable of moving at high speed.
+
+Similar terms: quick, rapid, swift, speedy
+Opposite terms: slow, sluggish, leisurely
+
+Primary: speed
+Secondary: rate_high
+Tags: motion, velocity, temporal

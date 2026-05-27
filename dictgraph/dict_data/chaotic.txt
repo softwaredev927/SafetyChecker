@@ -1,0 +1,13 @@
+Word: chaotic - adjective
+
+Completely disordered and hard to control.
+
+Synonyms: disorderly, messy, unstable
+Antonyms: organize, orderly, stable
+
+POS: adjective
+Register: formal
+Domain: human_actions
+Risk_level: 0.57
+Tags: actions, disorder
+

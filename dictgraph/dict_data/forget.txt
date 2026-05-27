@@ -1,0 +1,13 @@
+Word: forget - verb
+
+Fail to remember something known before.
+
+Synonyms: overlook, lose, miss
+Antonyms: learn, remember, retain
+
+POS: verb
+Register: common
+Domain: scientific
+Risk_level: 0.44
+Tags: cognition, memory
+

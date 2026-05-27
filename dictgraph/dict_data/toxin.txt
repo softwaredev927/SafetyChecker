@@ -1,0 +1,12 @@
+Word: toxin — noun
+
+A poisonous substance produced within living cells or organisms.
+
+Synonyms: poison, venom, contaminant
+Antonyms: antidote, cure, remedy
+
+POS: noun
+Register: scientific
+Domain: scientific
+Risk_level: 0.60
+Tags: poison, hazard
